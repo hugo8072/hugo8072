@@ -122,7 +122,7 @@
 
 
 <details>
-  <summary>Nice quotes</summary>
+  <summary>Quotes</summary>
   <br>
   <blockquote>
     “First, solve the problem. Then, write the code.”
