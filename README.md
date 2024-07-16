@@ -1,3 +1,6 @@
+
+
+
 <p align = "center">
 	
 </p>
@@ -14,13 +17,15 @@
 <summary>Open profile</summary>
 
 <br>
-<div>
-<div align="center">
-  <img height="200" alt="Avatar photo of hugomls93" src="https://github.com/hugomls93.png" alt="Avatar photo of hugomls93">
-</div>
-<div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Hugo;Welcome+to+My+GitHub+Profile;Software+and+Computer+Engineer;Backend+Developer;" alt="Typing SVG" /></a>
-  </div>
+<div style="background-color: black; color: green; padding: 20px;">
+    <div align="center">
+        <img height="200" alt="Avatar photo of hugomls93" src="https://github.com/hugomls93.png" alt="Avatar photo of hugomls93">
+    </div>
+    <div align="center">
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=00FF00&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Hugo;Welcome+to+My+GitHub+Profile;Software+and+Computer+Engineer;Backend+Developer;" alt="Typing SVG" />
+        </a>
+    </div>
 </div>
 
 <details>
@@ -28,26 +33,9 @@
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
-<div align="left">
+<div align="centre">
 
-```js
-/**
- * Represents me.
- *
- * @constructor
- * @param {string} location - Aveiro, Portugal.
- * @param {string} languagues - English, Spanish, Portuguese.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Backend development.
-* @param {string} interests - Cybersecurity, Online Privacy, Digital Well-being,Time Management.
- * @param {string} hobbies - Trekking, Camping, taking photos and listening music.
- * @param {string} education -Bachelor’s Degree in Computer Engineering, Universidade Aberta, Portugal.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to reach out.
-
- *
-
- */
-```
+![Terminal Animation](https://i.ibb.co/h8GSGv8/terminal-3.gif)
 
 </div>
 
