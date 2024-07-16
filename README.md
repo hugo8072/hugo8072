@@ -19,7 +19,7 @@
 <br>
 <div style="background-color: black; color: green; padding: 20px;">
     <div align="center">
-        <img height="400" alt="Avatar photo of hugomls93" src="https://i.ibb.co/LhKfMP6/2.jpg" alt="Avatar photo of hugomls93">
+        <img height="400" alt="Avatar photo of hugomls93" src="https://avatars.githubusercontent.com/hugomls93" alt="Avatar photo of hugomls93">
     </div>
     <div align="center">
         <a href="https://git.io/typing-svg">
