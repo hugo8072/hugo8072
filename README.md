@@ -35,7 +35,7 @@
 
 <div align="centre">
 
-![Terminal Animation](https://i.ibb.co/h8GSGv8/terminal-3.gif)
+![Terminal Animation](https://ibb.co/bs90fM5)
 
 </div>
 
