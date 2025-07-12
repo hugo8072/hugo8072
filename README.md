@@ -11,7 +11,7 @@
 <div align="center">
 
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+![Top of pokeball](https://github.com/hugo8072/hugo8072/blob/main/1.png)
 
 <details>
 <summary>Open profile</summary>
@@ -138,7 +138,7 @@
 
 </details>
 
-![Bottom of pokeball](https://github.com/hugo8072/NextHire/blob/main/imgs/1.png)
+![Bottom of pokeball](https://github.com/hugo8072/hugo8072/blob/main/2.png)
 
 </div>
 
