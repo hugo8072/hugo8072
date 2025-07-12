@@ -19,9 +19,6 @@
 <br>
 <div style="background-color: black; color: green; padding: 20px;">
     <div align="center">
-        <img height="400" alt="Avatar photo of hugo8072" src="https://avatars.githubusercontent.com/hugo8072" alt="Avatar photo of hugo8072">
-    </div>
-    <div align="center">
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=0074D9&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Hugo;Welcome+to+My+GitHub+Profile;Software+Engineer;" alt="Typing SVG" />
         </a>
