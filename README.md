@@ -66,13 +66,7 @@
 	    <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
       <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="Github Actions"/>
     </kbd>
-    <kbd>
-      <kbd>Tools</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
-      <img width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-line-wordmark.svg" alt="Visual Studio" title="Visual Studio"/>
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"  alt="sublime" title="Sublime"/>
+   
 
   </p>
 </div>
