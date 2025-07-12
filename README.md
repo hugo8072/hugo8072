@@ -5,14 +5,13 @@
 <div align="center">
 
 <details>
-<summary>About me</summary>
+<summary>Open terminal</summary>
     <br>
-    <strong>Open terminal...</strong>
     <br>
     <img src="https://i.ibb.co/jZ8YyXyw/terminal.gif" alt="Terminal Animation"/>
 </details>
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+![Top of servers room](https://github.com/hugo8072/hugo8072/blob/main/1.png)
 
 <details>
 <summary>Open profile</summary>
@@ -126,7 +125,7 @@
 
 </details>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+![Bottom of servers room](https://github.com/hugo8072/hugo8072/blob/main/1.png)
 
 </div>
 
