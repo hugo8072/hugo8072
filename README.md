@@ -20,7 +20,7 @@
 <div style="background-color: #0a192f; color: #e0eafc; padding: 20px; border-radius: 12px;">
     <div align="center">
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=0074D9&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Hugo;Welcome+to+My+GitHub+Profile;Software+Engineer;" alt="Typing SVG" />
+            <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=0074D9&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Hugo;Welcome+to+My+GitHub+Profile;" alt="Typing SVG" />
         </a>
     </div>
 </div>
