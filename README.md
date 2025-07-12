@@ -62,7 +62,7 @@
       <kbd>Operating System, Networking & Deployment</kbd>
       <br>
       <br>
-	    <img width="30" src="https://a.icons8.com/8JkQwQkF/awslambda.png" alt="AWS" title="AWS"/>
+	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
 	    <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
       <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="Github Actions"/>
     </kbd>
