@@ -1,17 +1,14 @@
+<div align="center">
 
-![Terminal Animation](https://i.ibb.co/jZ8YyXyw/terminal.gif)
-
-
-
-![Top of pokeball](https://github.com/hugo8072/hugo8072/blob/main/1.png)
+<br>
+<img src="https://github.com/hugo8072/hugo8072/blob/main/1.png" alt="Top of pokeball"/>
 
 <details>
 <summary>Open profile</summary>
-
 <br>
 <div style="background-color: black; color: green; padding: 20px;">
     <div align="center">
-        <img height="400" alt="Avatar photo of hugo8072" src="https://avatars.githubusercontent.com/hugo8072" alt="Avatar photo of hugo8072">
+        <img height="400" alt="Avatar photo of hugo8072" src="https://avatars.githubusercontent.com/hugo8072">
     </div>
     <div align="center">
         <a href="https://git.io/typing-svg">
@@ -22,17 +19,12 @@
 
 <details>
 <summary>About me</summary>
-
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
-<div align="centre">
-
-
-
-
-
+<div align="center">
+    <br>
+    <strong>Open terminal...</strong>
+    <br>
+    <img src="https://i.ibb.co/jZ8YyXyw/terminal.gif" alt="Terminal Animation"/>
 </div>
-
 </details>
 
 <details>
@@ -77,8 +69,8 @@
       <br>
       <br>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
-	    <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
+        <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
+        <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
       <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="Github Actions"/>
     </kbd>
     <kbd>
@@ -98,10 +90,6 @@
   </p>
 </div>
 </details>
-
-
-
-
 
 <details>
   <summary>Quotes</summary>
@@ -128,15 +116,11 @@
   <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
 </details>
 
-
-
-</details>
-
-![Bottom of pokeball](https://github.com/hugo8072/hugo8072/blob/main/2.png)
+<img src="https://github.com/hugo8072/hugo8072/blob/main/2.png" alt="Bottom of pokeball"/>
 
 </div>
 
-<div align=center>
+<div align="center">
  <a href="https://www.linkedin.com/in/hugosilvait/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="mailto:hugo_8072@proton.me?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 <a href="https://leetcode.com/u/hugo8072/" target="_blank"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode" /></a>
@@ -145,5 +129,3 @@
 
 ------
 Credit: Layout developed by: [10Kartik](https://github.com/10Kartik)
-
-
