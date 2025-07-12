@@ -68,14 +68,7 @@
       <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="Github Actions"/>
     </kbd>
     <br>
-    <kbd>Next Steps</kbd>
-    <br>
-    <br>
-    <img width="30" style="filter: invert(1);" src="https://www.kali.org/wallpapers/images/2024/kali-ferrofluid.jpg" alt="Kali Linux" title="Kali Linux"/>
-    <img width="30" src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" title="Nmap"/>
-    <img width="30" src="https://imgbin.com/png/FzS5VE7K/wireshark-packet-analyzer-computer-software-protocol-analyzer-png" alt="Wireshark" title="Wireshark"/>
-    </kbd>
-    </kbd>
+
    
 
   </p>
