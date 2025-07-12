@@ -128,13 +128,7 @@
 
 <div align=center>
  <a href="https://www.linkedin.com/in/hugosilvait/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:hugo_8072@proton.me?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-
+<a href="mailto:hugo_8072@proton.me?subject=Hi%Hugo%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=0074D9&logo=maildotru&logoColor=FFFFFF&label=" /></a>
 </div>
 
 ------
-Credit: Layout developed by: [10Kartik](https://github.com/10Kartik)
-
-
-[url=https://ibb.co/cXy96n68][img]https://i.ibb.co/gFr8SKSW/terminal.gif[/img][/url]
-[url=https://fr.imgbb.com/]gid hd[/url]
