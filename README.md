@@ -5,7 +5,7 @@
 <div align="center">
 
 <details>
-<summary>Open terminal</summary>
+<summary style="color:#0074D9; background:#0a192f; padding:4px 12px; border-radius:8px;">Open terminal</summary>
     <br>
     <br>
     <img src="https://i.ibb.co/jZ8YyXyw/terminal.gif" alt="Terminal Animation"/>
@@ -14,10 +14,10 @@
 ![Top of servers room](https://github.com/hugo8072/hugo8072/blob/main/1.png)
 
 <details>
-<summary>Open profile</summary>
+<summary style="color:#0074D9; background:#0a192f; padding:4px 12px; border-radius:8px;">Open profile</summary>
 
 <br>
-<div style="background-color: black; color: green; padding: 20px;">
+<div style="background-color: #0a192f; color: #e0eafc; padding: 20px; border-radius: 12px;">
     <div align="center">
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=0074D9&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Hugo;Welcome+to+My+GitHub+Profile;Software+Engineer;" alt="Typing SVG" />
