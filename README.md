@@ -62,9 +62,9 @@
       <kbd>Operating System, Networking & Deployment</kbd>
       <br>
       <br>
-        <img width="30" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/aws.png" alt="Aws" title="aws"/>
         <img width="30" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/bash.png" alt="Bash" title="Bash"/>
         <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
+	<img width="30" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/aws.png" alt="Aws" title="aws"/>
       <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="Github Actions"/>
     </kbd>
     <br>
