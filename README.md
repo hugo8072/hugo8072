@@ -1,6 +1,3 @@
-
-
-
 <p align = "center">
 	
 </p>
@@ -31,12 +28,15 @@
 <details>
 <summary>About me</summary>
 
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
+<p align="center">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+</p>
 
-<div align="centre">
-
-![Terminal Animation](https://i.ibb.co/rxrjWR2/terminal.gif)
-
+<div align="center">
+    <br>
+    <strong>Open terminal...</strong>
+    <br>
+    <img src="https://i.ibb.co/jZ8YyXyw/terminal.gif" alt="Terminal Animation"/>
 </div>
 
 </details>
