@@ -125,7 +125,7 @@
 
 </details>
 
-![Bottom of servers room](https://github.com/hugo8072/hugo8072/blob/main/1.png)
+![Bottom of servers room](https://github.com/hugo8072/hugo8072/blob/main/2.png)
 
 </div>
 
