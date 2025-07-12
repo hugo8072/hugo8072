@@ -71,9 +71,10 @@
     <kbd>Next Steps</kbd>
     <br>
     <br>
-      <kbd><img width="30" style="filter: invert(1);" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/kali_linux.png" alt="Kali Linux" title="Kali Linux"/></kbd>
-      <kbd><img width="30" src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" title="Nmap"/></kbd>
-      <kbd><img width="30" src="https://www.hiclipart.com/png/1xw4a7r6t-wireshark-logo-icon-png-transparent.png" alt="Wireshark" title="Wireshark"/></kbd>
+    <img width="30" style="filter: invert(1);" src="https://www.kali.org/wallpapers/images/2024/kali-ferrofluid.jpg" alt="Kali Linux" title="Kali Linux"/>
+    <img width="30" src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" title="Nmap"/>
+    <img width="30" src="https://imgbin.com/png/FzS5VE7K/wireshark-packet-analyzer-computer-software-protocol-analyzer-png" alt="Wireshark" title="Wireshark"/>
+    </kbd>
     </kbd>
    
 
