@@ -1,20 +1,15 @@
 <p align = "center">
 	
 </p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
 
 <div align="center">
 
 <details>
 <summary>About me</summary>
-
     <br>
     <strong>Open terminal...</strong>
     <br>
     <img src="https://i.ibb.co/jZ8YyXyw/terminal.gif" alt="Terminal Animation"/>
-
 </details>
 
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
