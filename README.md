@@ -1,14 +1,6 @@
 
+![Terminal Animation](https://i.ibb.co/jZ8YyXyw/terminal.gif)
 
-
-<p align = "center">
-	
-</p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-<div align="center">
 
 
 ![Top of pokeball](https://github.com/hugo8072/hugo8072/blob/main/1.png)
@@ -35,7 +27,6 @@
 
 <div align="centre">
 
-![Terminal Animation](https://i.ibb.co/jZ8YyXyw/terminal.gif)
 
 
 
