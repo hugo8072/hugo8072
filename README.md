@@ -8,7 +8,7 @@
 <summary style="color:#0074D9; background:#0a192f; padding:4px 12px; border-radius:8px;">Open terminal</summary>
     <br>
     <br>
-    <img src="https://ibb.co/cXy96n68" alt="Terminal Animation"/>
+    <img src="https://i.ibb.co/jZ8YyXyw/terminal.gif" alt="Terminal Animation"/>
 </details>
 
 ![Top of servers room](https://github.com/hugo8072/hugo8072/blob/main/1.png)
